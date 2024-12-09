@@ -1,0 +1,14 @@
+/home/mika/Downloads/abgabe07/LINQ-Pruefungsverwaltung/LinqUebung1/LinqUebung1/bin/Debug/net8.0/LinqUebung1
+/home/mika/Downloads/abgabe07/LINQ-Pruefungsverwaltung/LinqUebung1/LinqUebung1/bin/Debug/net8.0/LinqUebung1.deps.json
+/home/mika/Downloads/abgabe07/LINQ-Pruefungsverwaltung/LinqUebung1/LinqUebung1/bin/Debug/net8.0/LinqUebung1.runtimeconfig.json
+/home/mika/Downloads/abgabe07/LINQ-Pruefungsverwaltung/LinqUebung1/LinqUebung1/bin/Debug/net8.0/LinqUebung1.dll
+/home/mika/Downloads/abgabe07/LINQ-Pruefungsverwaltung/LinqUebung1/LinqUebung1/bin/Debug/net8.0/LinqUebung1.pdb
+/home/mika/Downloads/abgabe07/LINQ-Pruefungsverwaltung/LinqUebung1/LinqUebung1/obj/Debug/net8.0/LinqUebung1.GeneratedMSBuildEditorConfig.editorconfig
+/home/mika/Downloads/abgabe07/LINQ-Pruefungsverwaltung/LinqUebung1/LinqUebung1/obj/Debug/net8.0/LinqUebung1.AssemblyInfoInputs.cache
+/home/mika/Downloads/abgabe07/LINQ-Pruefungsverwaltung/LinqUebung1/LinqUebung1/obj/Debug/net8.0/LinqUebung1.AssemblyInfo.cs
+/home/mika/Downloads/abgabe07/LINQ-Pruefungsverwaltung/LinqUebung1/LinqUebung1/obj/Debug/net8.0/LinqUebung1.csproj.CoreCompileInputs.cache
+/home/mika/Downloads/abgabe07/LINQ-Pruefungsverwaltung/LinqUebung1/LinqUebung1/obj/Debug/net8.0/LinqUebung1.dll
+/home/mika/Downloads/abgabe07/LINQ-Pruefungsverwaltung/LinqUebung1/LinqUebung1/obj/Debug/net8.0/refint/LinqUebung1.dll
+/home/mika/Downloads/abgabe07/LINQ-Pruefungsverwaltung/LinqUebung1/LinqUebung1/obj/Debug/net8.0/LinqUebung1.pdb
+/home/mika/Downloads/abgabe07/LINQ-Pruefungsverwaltung/LinqUebung1/LinqUebung1/obj/Debug/net8.0/LinqUebung1.genruntimeconfig.cache
+/home/mika/Downloads/abgabe07/LINQ-Pruefungsverwaltung/LinqUebung1/LinqUebung1/obj/Debug/net8.0/ref/LinqUebung1.dll
