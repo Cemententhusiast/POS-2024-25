@@ -1,4 +1,5 @@
-﻿// Die Liste aller Schüler der Schule.
+﻿
+// Die Liste aller Schüler der Schule.
 //IEnumerable<LinqUebung1.Schueler> result13 = SampleData.Schuelers.Where(s => s.Pruefungen.Where(p => p.Fach == "E" && p.Note < 5).Any(p => p.Fach == "AM" && p.Note == 5));
 using LinqUebung1;
 

@@ -1,0 +1,16 @@
+/home/mika/SPG/2024-25/POS/Angabe08/ConsoleApp-Autohaus-Lab/spg.Lab/bin/Debug/net9.0/spg.Lab
+/home/mika/SPG/2024-25/POS/Angabe08/ConsoleApp-Autohaus-Lab/spg.Lab/bin/Debug/net9.0/Autohaus.txt
+/home/mika/SPG/2024-25/POS/Angabe08/ConsoleApp-Autohaus-Lab/spg.Lab/bin/Debug/net9.0/spg.Lab.deps.json
+/home/mika/SPG/2024-25/POS/Angabe08/ConsoleApp-Autohaus-Lab/spg.Lab/bin/Debug/net9.0/spg.Lab.runtimeconfig.json
+/home/mika/SPG/2024-25/POS/Angabe08/ConsoleApp-Autohaus-Lab/spg.Lab/bin/Debug/net9.0/spg.Lab.dll
+/home/mika/SPG/2024-25/POS/Angabe08/ConsoleApp-Autohaus-Lab/spg.Lab/bin/Debug/net9.0/spg.Lab.pdb
+/home/mika/SPG/2024-25/POS/Angabe08/ConsoleApp-Autohaus-Lab/spg.Lab/obj/Debug/net9.0/spg.Lab.GeneratedMSBuildEditorConfig.editorconfig
+/home/mika/SPG/2024-25/POS/Angabe08/ConsoleApp-Autohaus-Lab/spg.Lab/obj/Debug/net9.0/spg.Lab.AssemblyInfoInputs.cache
+/home/mika/SPG/2024-25/POS/Angabe08/ConsoleApp-Autohaus-Lab/spg.Lab/obj/Debug/net9.0/spg.Lab.AssemblyInfo.cs
+/home/mika/SPG/2024-25/POS/Angabe08/ConsoleApp-Autohaus-Lab/spg.Lab/obj/Debug/net9.0/spg.Lab.csproj.CoreCompileInputs.cache
+/home/mika/SPG/2024-25/POS/Angabe08/ConsoleApp-Autohaus-Lab/spg.Lab/obj/Debug/net9.0/spg.Lab.sourcelink.json
+/home/mika/SPG/2024-25/POS/Angabe08/ConsoleApp-Autohaus-Lab/spg.Lab/obj/Debug/net9.0/spg.Lab.dll
+/home/mika/SPG/2024-25/POS/Angabe08/ConsoleApp-Autohaus-Lab/spg.Lab/obj/Debug/net9.0/refint/spg.Lab.dll
+/home/mika/SPG/2024-25/POS/Angabe08/ConsoleApp-Autohaus-Lab/spg.Lab/obj/Debug/net9.0/spg.Lab.pdb
+/home/mika/SPG/2024-25/POS/Angabe08/ConsoleApp-Autohaus-Lab/spg.Lab/obj/Debug/net9.0/spg.Lab.genruntimeconfig.cache
+/home/mika/SPG/2024-25/POS/Angabe08/ConsoleApp-Autohaus-Lab/spg.Lab/obj/Debug/net9.0/ref/spg.Lab.dll

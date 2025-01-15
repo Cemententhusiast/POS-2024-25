@@ -1,0 +1,14 @@
+/home/mika/Desktop/Plfs02/Aufgabe1/bin/Debug/net9.0/Aufgabe1
+/home/mika/Desktop/Plfs02/Aufgabe1/bin/Debug/net9.0/Aufgabe1.deps.json
+/home/mika/Desktop/Plfs02/Aufgabe1/bin/Debug/net9.0/Aufgabe1.runtimeconfig.json
+/home/mika/Desktop/Plfs02/Aufgabe1/bin/Debug/net9.0/Aufgabe1.dll
+/home/mika/Desktop/Plfs02/Aufgabe1/bin/Debug/net9.0/Aufgabe1.pdb
+/home/mika/Desktop/Plfs02/Aufgabe1/obj/Debug/net9.0/Aufgabe1.GeneratedMSBuildEditorConfig.editorconfig
+/home/mika/Desktop/Plfs02/Aufgabe1/obj/Debug/net9.0/Aufgabe1.AssemblyInfoInputs.cache
+/home/mika/Desktop/Plfs02/Aufgabe1/obj/Debug/net9.0/Aufgabe1.AssemblyInfo.cs
+/home/mika/Desktop/Plfs02/Aufgabe1/obj/Debug/net9.0/Aufgabe1.csproj.CoreCompileInputs.cache
+/home/mika/Desktop/Plfs02/Aufgabe1/obj/Debug/net9.0/Aufgabe1.dll
+/home/mika/Desktop/Plfs02/Aufgabe1/obj/Debug/net9.0/refint/Aufgabe1.dll
+/home/mika/Desktop/Plfs02/Aufgabe1/obj/Debug/net9.0/Aufgabe1.pdb
+/home/mika/Desktop/Plfs02/Aufgabe1/obj/Debug/net9.0/Aufgabe1.genruntimeconfig.cache
+/home/mika/Desktop/Plfs02/Aufgabe1/obj/Debug/net9.0/ref/Aufgabe1.dll

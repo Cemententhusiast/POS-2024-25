@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mika/Downloads/abgabe07/LINQ-Pruefungsverwaltung/LinqUebung1/LinqUebung1/LinqUebung1.csproj": {}
+    "/home/mika/SPG/2024-25/POS/Angabe07/LINQ-Pruefungsverwaltung/LinqUebung1/LinqUebung1/LinqUebung1.csproj": {}
   },
   "projects": {
-    "/home/mika/Downloads/abgabe07/LINQ-Pruefungsverwaltung/LinqUebung1/LinqUebung1/LinqUebung1.csproj": {
+    "/home/mika/SPG/2024-25/POS/Angabe07/LINQ-Pruefungsverwaltung/LinqUebung1/LinqUebung1/LinqUebung1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mika/Downloads/abgabe07/LINQ-Pruefungsverwaltung/LinqUebung1/LinqUebung1/LinqUebung1.csproj",
+        "projectUniqueName": "/home/mika/SPG/2024-25/POS/Angabe07/LINQ-Pruefungsverwaltung/LinqUebung1/LinqUebung1/LinqUebung1.csproj",
         "projectName": "LinqUebung1",
-        "projectPath": "/home/mika/Downloads/abgabe07/LINQ-Pruefungsverwaltung/LinqUebung1/LinqUebung1/LinqUebung1.csproj",
+        "projectPath": "/home/mika/SPG/2024-25/POS/Angabe07/LINQ-Pruefungsverwaltung/LinqUebung1/LinqUebung1/LinqUebung1.csproj",
         "packagesPath": "/home/mika/.nuget/packages/",
-        "outputPath": "/home/mika/Downloads/abgabe07/LINQ-Pruefungsverwaltung/LinqUebung1/LinqUebung1/obj/",
+        "outputPath": "/home/mika/SPG/2024-25/POS/Angabe07/LINQ-Pruefungsverwaltung/LinqUebung1/LinqUebung1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mika/.nuget/NuGet/NuGet.Config"
@@ -32,7 +32,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -48,12 +54,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/mika/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

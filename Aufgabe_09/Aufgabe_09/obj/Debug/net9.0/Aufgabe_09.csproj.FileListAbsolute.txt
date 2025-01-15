@@ -1,0 +1,15 @@
+/home/mika/SPG/2024-25/POS/Aufgabe_09/Aufgabe_09/bin/Debug/net9.0/Aufgabe_09
+/home/mika/SPG/2024-25/POS/Aufgabe_09/Aufgabe_09/bin/Debug/net9.0/Aufgabe_09.deps.json
+/home/mika/SPG/2024-25/POS/Aufgabe_09/Aufgabe_09/bin/Debug/net9.0/Aufgabe_09.runtimeconfig.json
+/home/mika/SPG/2024-25/POS/Aufgabe_09/Aufgabe_09/bin/Debug/net9.0/Aufgabe_09.dll
+/home/mika/SPG/2024-25/POS/Aufgabe_09/Aufgabe_09/bin/Debug/net9.0/Aufgabe_09.pdb
+/home/mika/SPG/2024-25/POS/Aufgabe_09/Aufgabe_09/obj/Debug/net9.0/Aufgabe_09.GeneratedMSBuildEditorConfig.editorconfig
+/home/mika/SPG/2024-25/POS/Aufgabe_09/Aufgabe_09/obj/Debug/net9.0/Aufgabe_09.AssemblyInfoInputs.cache
+/home/mika/SPG/2024-25/POS/Aufgabe_09/Aufgabe_09/obj/Debug/net9.0/Aufgabe_09.AssemblyInfo.cs
+/home/mika/SPG/2024-25/POS/Aufgabe_09/Aufgabe_09/obj/Debug/net9.0/Aufgabe_09.csproj.CoreCompileInputs.cache
+/home/mika/SPG/2024-25/POS/Aufgabe_09/Aufgabe_09/obj/Debug/net9.0/Aufgabe_09.sourcelink.json
+/home/mika/SPG/2024-25/POS/Aufgabe_09/Aufgabe_09/obj/Debug/net9.0/Aufgabe_09.dll
+/home/mika/SPG/2024-25/POS/Aufgabe_09/Aufgabe_09/obj/Debug/net9.0/refint/Aufgabe_09.dll
+/home/mika/SPG/2024-25/POS/Aufgabe_09/Aufgabe_09/obj/Debug/net9.0/Aufgabe_09.pdb
+/home/mika/SPG/2024-25/POS/Aufgabe_09/Aufgabe_09/obj/Debug/net9.0/Aufgabe_09.genruntimeconfig.cache
+/home/mika/SPG/2024-25/POS/Aufgabe_09/Aufgabe_09/obj/Debug/net9.0/ref/Aufgabe_09.dll

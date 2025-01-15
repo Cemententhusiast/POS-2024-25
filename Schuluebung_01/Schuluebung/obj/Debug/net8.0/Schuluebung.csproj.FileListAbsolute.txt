@@ -1,0 +1,15 @@
+/home/mika/SPG/2024-25/POS/Schuluebung_01/Schuluebung/bin/Debug/net8.0/Schuluebung
+/home/mika/SPG/2024-25/POS/Schuluebung_01/Schuluebung/bin/Debug/net8.0/Schuluebung.deps.json
+/home/mika/SPG/2024-25/POS/Schuluebung_01/Schuluebung/bin/Debug/net8.0/Schuluebung.runtimeconfig.json
+/home/mika/SPG/2024-25/POS/Schuluebung_01/Schuluebung/bin/Debug/net8.0/Schuluebung.dll
+/home/mika/SPG/2024-25/POS/Schuluebung_01/Schuluebung/bin/Debug/net8.0/Schuluebung.pdb
+/home/mika/SPG/2024-25/POS/Schuluebung_01/Schuluebung/obj/Debug/net8.0/Schuluebung.GeneratedMSBuildEditorConfig.editorconfig
+/home/mika/SPG/2024-25/POS/Schuluebung_01/Schuluebung/obj/Debug/net8.0/Schuluebung.AssemblyInfoInputs.cache
+/home/mika/SPG/2024-25/POS/Schuluebung_01/Schuluebung/obj/Debug/net8.0/Schuluebung.AssemblyInfo.cs
+/home/mika/SPG/2024-25/POS/Schuluebung_01/Schuluebung/obj/Debug/net8.0/Schuluebung.csproj.CoreCompileInputs.cache
+/home/mika/SPG/2024-25/POS/Schuluebung_01/Schuluebung/obj/Debug/net8.0/Schuluebung.sourcelink.json
+/home/mika/SPG/2024-25/POS/Schuluebung_01/Schuluebung/obj/Debug/net8.0/Schuluebung.dll
+/home/mika/SPG/2024-25/POS/Schuluebung_01/Schuluebung/obj/Debug/net8.0/refint/Schuluebung.dll
+/home/mika/SPG/2024-25/POS/Schuluebung_01/Schuluebung/obj/Debug/net8.0/Schuluebung.pdb
+/home/mika/SPG/2024-25/POS/Schuluebung_01/Schuluebung/obj/Debug/net8.0/Schuluebung.genruntimeconfig.cache
+/home/mika/SPG/2024-25/POS/Schuluebung_01/Schuluebung/obj/Debug/net8.0/ref/Schuluebung.dll

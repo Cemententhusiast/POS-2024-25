@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yLdHKymFazA=",
+  "success": true,
+  "projectFilePath": "/home/mika/SPG/2024-25/POS/Schuluebung_01/Schuluebung/Schuluebung.csproj",
+  "expectedPackageFiles": [
+    "/home/mika/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/home/mika/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "/home/mika/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.11/microsoft.netcore.app.host.linux-x64.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
